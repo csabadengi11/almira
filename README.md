@@ -2,6 +2,7 @@
 Test repo for learning git.
 
 ## Goals
-* Learni gi Buy a dogt
+* Learn git
 * Buy a dog
 * Plant a tree
+* Change the world
